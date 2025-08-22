@@ -38,10 +38,10 @@ const HeroSection = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
             <Button variant="hero" size="lg" className="text-lg px-8 py-4">
-              Get Your Copy Now - $47
+              Buy Now - $47
             </Button>
             <Button variant="outline" size="lg" className="text-lg px-8 py-4">
-              Preview Sample Chapter
+              View What's Included
             </Button>
           </div>
           
